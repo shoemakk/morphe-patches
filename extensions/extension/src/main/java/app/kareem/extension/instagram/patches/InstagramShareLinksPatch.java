@@ -4,7 +4,7 @@ import java.net.URI;
 
 @SuppressWarnings("unused")
 public final class InstagramShareLinksPatch {
-    private static final String CUSTOM_HOST = "kittygram.kareem.one";
+    private static final String CUSTOM_HOST = "ig.nelu.lol";
 
     private InstagramShareLinksPatch() {
     }
