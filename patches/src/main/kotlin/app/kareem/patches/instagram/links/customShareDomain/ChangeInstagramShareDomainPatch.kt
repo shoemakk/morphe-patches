@@ -15,7 +15,7 @@ private const val EXTENSION_CLASS_DESCRIPTOR =
 val changeInstagramShareDomainPatch =
     bytecodePatch(
         name = "Change Instagram share domain",
-        description = "Rewrites generated Instagram share links to kittygram.kareem.one.",
+        description = "Rewrites generated Instagram share links to ig.nelu.lol.",
         default = true,
     ) {
         compatibleWith(COMPATIBILITY_INSTAGRAM)
